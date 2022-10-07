@@ -1,0 +1,13 @@
+Added Component: Designator=K4(KEY)
+Added Component: Designator=R21(R0603)
+Added Pin To Net: NetName=GND Pin=K4-2
+Added Pin To Net: NetName=GND Pin=K4-2
+Added Pin To Net: NetName=AD_KEY Pin=R21-1
+Added Pin To Net: NetName=GND Pin=Y1-3
+Added Pin To Net: NetName=GND Pin=Y1-4
+Added Pin To Net: NetName=NetK4_1 Pin=K4-1
+Added Pin To Net: NetName=NetK4_1 Pin=K4-1
+Added Pin To Net: NetName=NetK4_1 Pin=R21-2
+Added Net: Name=NetK4_1
+Added Member To Class: ClassName=BLE主控原理图 Member=Component K4 
+Added Member To Class: ClassName=BLE主控原理图 Member=Component R21 9.1K

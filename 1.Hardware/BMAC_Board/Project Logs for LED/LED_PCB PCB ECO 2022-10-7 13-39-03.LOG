@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=K4-2
+Removed Pin From Net: NetName=GND Pin=K4-2
+Removed Pin From Net: NetName=GND Pin=K5-2
+Removed Pin From Net: NetName=GND Pin=K5-2
+Removed Pin From Net: NetName=GND Pin=K6-2
+Removed Pin From Net: NetName=GND Pin=K6-2
+Removed Pin From Net: NetName=AD_KEY Pin=R21-1
+Removed Pin From Net: NetName=AD_KEY Pin=R23-1
+Removed Pin From Net: NetName=AD_KEY Pin=R24-1
+Removed Member From Class: ClassName=BLE主控原理图 Member=K4
+Removed Member From Class: ClassName=BLE主控原理图 Member=K5
+Removed Member From Class: ClassName=BLE主控原理图 Member=K6
+Removed Member From Class: ClassName=BLE主控原理图 Member=R21
+Removed Member From Class: ClassName=BLE主控原理图 Member=R23
+Removed Member From Class: ClassName=BLE主控原理图 Member=R24
+Added Pin To Net: NetName=GND Pin=Y1-3
+Added Pin To Net: NetName=GND Pin=Y1-4

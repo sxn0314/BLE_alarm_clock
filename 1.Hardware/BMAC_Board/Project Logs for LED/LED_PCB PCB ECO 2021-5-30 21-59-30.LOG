@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=VCC Pin=D1-A
+Removed Pin From Net: NetName=NetC6_1 Pin=D1-K
+Removed Pin From Net: NetName=BAT+ Pin=D2-A
+Removed Pin From Net: NetName=NetC6_1 Pin=D2-K
+Change Component Footprint: Designator=D1 Old Footprint=SMA New Footprint=LC-SMA(DO-214AC)_S2
+Change Component Footprint: Designator=D2 Old Footprint=SMA New Footprint=LC-SMA(DO-214AC)_S2
+Added Pin To Net: NetName=VCC Pin=D1-1
+Added Pin To Net: NetName=NetC6_1 Pin=D1-2
+Added Pin To Net: NetName=BAT+ Pin=D2-1
+Added Pin To Net: NetName=NetC6_1 Pin=D2-2

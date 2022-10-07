@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=USB1 Old Footprint=USBDIP New Footprint=USBSMT
+Added Pin To Net: NetName=GND Pin=Y1-3
+Added Pin To Net: NetName=GND Pin=Y1-4

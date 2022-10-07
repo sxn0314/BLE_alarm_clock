@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=L1 Old Footprint=0402-A New Footprint=SMD0805
+Change Component Designator: OldDesignator=GREEN NewDesignator=STDBY
+Change Component Designator: OldDesignator=RED NewDesignator=CHRG
