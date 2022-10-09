@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=MUTE Pin=U5-7
-Added Pin To Net: NetName=5V Pin=J1-1
-Added Pin To Net: NetName=MUTE Pin=U5-45
-Added Pin To Net: NetName=GND Pin=Y1-3
-Added Pin To Net: NetName=GND Pin=Y1-4
