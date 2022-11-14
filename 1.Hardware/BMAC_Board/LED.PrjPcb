@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for LED
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -188,7 +188,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DUNXMAOH
+DocumentUniqueId=VUOQHFKS
 
 [Document10]
 DocumentPath=功放原理图.SchDoc
@@ -225,7 +225,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for LED\Design Rule Check - LED_PCB.html
+DocumentPath=Project Outputs for LED\Design Rule Check - JLC_LED_PCB.html
 DItemRevisionGUID=
 
 [Configuration1]
@@ -275,7 +275,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for LED
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
